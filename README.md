@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mara</h1>
+<h2 align="center">Hi 👋, I'm Mara</h2>
 <h3 align="center">A passionate full stack developer from New York / California</h3>
 
-- 📫 How to reach me **maralafontaine@gmail.com**
+- 📫 You can reach me at **maralafontaine@gmail.com**
 
 <p align="left">
 </p>
